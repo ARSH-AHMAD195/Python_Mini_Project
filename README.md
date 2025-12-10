@@ -210,18 +210,20 @@ Raised when:
 
 ## 💡 Future Enhancements (Suggestions)
 
-Add difficulty level selection
-Add timer mode
-Save scores locally
-Add GUI version (Tkinter / PyQt)
-Export quiz results as file
+<ol>
+  <li>Add difficulty level selection</li>
+  <li>Add timer mode</li>
+  <li>Save scores locally</li>
+  <li>Add GUI version (Tkinter / PyQt)</li>
+  <li>Export quiz results as file</li>
+</ol>
 
 ## 🤝 Contributing
 
-Pull requests and suggestions are welcome!
+Pull requests and suggestions are welcome! <br>
 Feel free to open an issue for bugs, improvements, or new features.
 
 ## 📄 License
 
-This project is distributed under the MIT License.
+This project is distributed under the MIT License. <br>
 You are free to use, modify, and distribute it.
