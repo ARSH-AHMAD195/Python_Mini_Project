@@ -208,7 +208,7 @@ Raised when:
     <li>Helps in reliable error handling</li>
 </ul>
 
-## 💡 Future Enhancements (Suggestions)
+## 💡 Future Enhancements
 
 <ol>
   <li>Add difficulty level selection</li>
